@@ -23,7 +23,7 @@ Video URL -
 
 https://github.com/SayanBan/Student-Room-Accomodation-Management-System/blob/main/Screenshots/Web.mp4
 
-Some screenshots given below, see the screenshot folder for all screenshots -
+Some screenshots given below, see the screenshot folder for all screenshots .
 
 # 1. Home Page
 
