@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Tw cen MT;
+    z-index: 0;
+}
+body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    font-family: consolas;
+}
+.top-nav{
+padding: 1pc;
+color: #fff;
+align-items: center;
+display: flex;
+}
+.logo{
+    width: 60px;
+    height: 30px;
+}
+ul{
+    margin-top: 0;
+    list-style: none;
+    display: flex;
+    position: relative;
+    margin-left: 31pc;
+    align-items: center;
+   
+}
+li{
+    margin-right: 3pc;
+    cursor: pointer;
+    padding-bottom: 2px;
+}
+li:hover{
+    border-bottom: 3px solid #4566ff;
+}
+button{
+    width: 5pc;
+    background: #4566ff;
+    height: 1.8pc;
+    outline: none;
+    border: none;
+    border-radius: 1pc;
+    cursor: pointer;
+    color: #fff;
+}
+button:hover{
+    background: none;
+    border: 2px solid #4566ff;
+}
+.body{
+    display: flex;
+}
+.bl{
+    margin-top: 10pc;
+    margin-left: 2pc;
+}
+p{
+    color: #fff;
+    font-size: 7pc;
+   
+}
+
+.btns{
+    margin-top: 2pc;
+    
+}
+
+ .br{
+    margin-top: 11pc;
+    margin-left: 10pc;
+    color: #000;
+    /* background: orangered; */
+    border-radius: 2pc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 50pc;
+    height: 10pc;
+    /* padding: 1pc; */
+    display: block;
+ }
+ 
+ .br p{
+    width: 15pc;
+    font-size: 1pc;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+ }
+ 
+
+
+ body{
+    font-family: Consolas;
+    background-color: #0f0e13;
+background-image: radial-gradient(
+at 0% 0%,
+hsla(253, 16%, 7%, 1) 0,
+transparent 50%
+),
+radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 1) 0, transparent 50%),
+radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 1) 0, transparent 50%);
+    background-image: cross-fade(50pc);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    height: 10pc;
+    width: 10pc;
+    border-radius: 50%;
+    margin-left: 2pc;
+}
+
+h1{
+    color: #fff;
+}
+.btn1 {
+
+margin-top: 1pc;
+width: 15pc;
+height: 3pc;
+outline: none;
+background: none;
+border-radius: 1pc;
+border: 3px solid #4566ff;
+color: #fff;
+text-align: center;
+margin-bottom: 1pc;
+cursor: pointer;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.04);
+}
